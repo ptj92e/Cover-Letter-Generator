@@ -1,0 +1,12 @@
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/bin/Debug/CoverLetterGenerator.exe
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/bin/Debug/CoverLetterGenerator.pdb
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csprojAssemblyReference.cache
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csproj.CoreCompileInputs.cache
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.exe
+/Users/phillipjones/Projects/CoverLetterGenerator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.pdb
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/CoverLetterGenerator.exe
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/CoverLetterGenerator.pdb
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csprojAssemblyReference.cache
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csproj.CoreCompileInputs.cache
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.exe
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.pdb
