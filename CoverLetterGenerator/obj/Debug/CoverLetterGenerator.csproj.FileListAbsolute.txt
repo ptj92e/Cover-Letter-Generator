@@ -10,3 +10,16 @@
 /Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csproj.CoreCompileInputs.cache
 /Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.exe
 /Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.pdb
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/CoverLetterGenerator.exe.config
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/itextsharp.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/PdfSharp.Charting.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/PdfSharp.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/XGraphics.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/itextsharp.xml
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/PdfSharp.Charting.xml
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/PdfSharp.xml
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/XGraphics.pdb
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/de/PdfSharp.Charting.resources.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/bin/Debug/de/PdfSharp.resources.dll
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.exe.config
+/Users/phillipjones/Repos/Projects/Cover-Letter-Generator/CoverLetterGenerator/obj/Debug/CoverLetterGenerator.csproj.CopyComplete
