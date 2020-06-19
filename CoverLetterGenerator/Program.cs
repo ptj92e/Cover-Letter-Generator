@@ -8,6 +8,7 @@ namespace CoverLetterGenerator
         {
             WriteLetter coverLetter = new WriteLetter();
             coverLetter.LetterInfo();
+            coverLetter.CreateLetter();
         }
     }
 }
