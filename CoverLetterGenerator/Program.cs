@@ -1,14 +1,11 @@
-﻿using System;
-
-namespace CoverLetterGenerator
+﻿namespace CoverLetterGenerator
 {
-    class MainClass
+    public class Program
     {
         public static void Main(string[] args)
         {
-            WriteLetter coverLetter = new WriteLetter();
-            coverLetter.LetterInfo();
-            coverLetter.CreateLetter();
+            var letterService = new LetterService();
+            letterService.CreateLetter();
         }
     }
 }
